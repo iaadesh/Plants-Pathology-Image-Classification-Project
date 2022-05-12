@@ -15,5 +15,5 @@ Dataset : https://www.kaggle.com/competitions/plant-pathology-2020-fgvc7
 1. Build a model which gives maximum accuracy.
 2. The model should have Strict Latency Constraint.
 
-# 2. Deployment
+# 2. Deployment Video 
 https://www.youtube.com/watch?v=b9_gJvW0gXA
